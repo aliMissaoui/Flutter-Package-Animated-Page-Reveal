@@ -12,7 +12,7 @@ and the Flutter guide for
 -->
 
 # Animated Page Reveal
-**Animated Page Reveal** package lets you add an animated page reaveal to your Flutter app that dispaly a set of pages with your desired content.
+**Animated Page Reveal** package lets you add an animated page reveal to your Flutter app that dispaly a set of pages with your desired content.
 
 
 ## Features
@@ -140,18 +140,17 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
    </td>
    <td>
-     Here's what it looks like:
-     
-<hr>
-
-
-https://user-images.githubusercontent.com/68671238/135723631-75829e02-65df-421c-8b1b-23c69aadfa15.mp4
-
 
    </td>
   </tr>
   </table>
 <hr>
+
+     Here's what it looks like:
+         
+https://user-images.githubusercontent.com/68671238/135723767-a464d5e3-2a88-4e10-b64d-af652be273ff.mp4
+
+
 
 ## Next Goals
 We are working on some improvements including:
